@@ -12,4 +12,4 @@ Now imagine it rains. How much water is going to be accumulated in puddles betwe
 
 We count volume in square blocks of 1X1. So in the picture above, everything to the left of index 1 spills out. Water to the right of index 7 also spills out. We are left with a puddle between 1 and 6 and the volume is 10.
 
-Your task is to write a program to compute the volume of water in the puddle; you should strive for an algorithm that completes the task in a single pass.
+Your task is to write a program to compute the volume of water in the puddle.
